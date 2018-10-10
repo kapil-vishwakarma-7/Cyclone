@@ -1,0 +1,6 @@
+websocket-client
+curve25519-donna
+pycrypto
+pyqrcode
+protobuf
+git+https://github.com/dpallot/simple-websocket-server.git
